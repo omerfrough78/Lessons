@@ -6,4 +6,19 @@ h1{
 style{
     text-decoration: none;\
      text-underline-position: none;
-}git
+}
+
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: brown;
+}
