@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.someDiv1{
+    float: left;
+    background-color: red;
+    height: 200px;
+    width: 50%;
+}
+.someDiv2{
+    float: left;
+    background-color: blue;
+    height: 200px;
+    width: 25%;
+}
+.someDiv3{
+    float: left;
+    background-color: green;
+    height: 200px;
+    width: 25%;
+}
+.subdiv1{
+    float: left;
+    background-color:black;
+    height: 200px;
+    width: 25%;
+}
+.subdiv2{
+    float: left;
+    background-color:yellow;
+    height: 200px;
+    width: 25%;
+}

@@ -5,7 +5,15 @@ input:checked{
     outline: 1px solid red;
 }
 
-div:{
-    border: 2px solid black;
+div:nth-of-type(2){
+        color: red;
 }
 
+ /* input:checked ~ div {
+    display: none;
+ } */
+
+ .togglebox:not(:checked) + div{
+     opacity: 0;
+ }
+ 

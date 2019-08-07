@@ -1,0 +1,20 @@
+.someDiv{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    border-style: ridge;
+}
+
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: blue;
+
+}
+.border-dotted{
+    border-style: dotted;
+}
+.border-doshed{
+    border-style: dashed;
+}
