@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* it means it will be counted inside not outside. */
+}
+
+body {
+    font-size: 62.5%;
+}
+
+.parent {
+    float: left;
+    background-color: aliceblue;
+    width: 100%;
+    height:
+    
+}
